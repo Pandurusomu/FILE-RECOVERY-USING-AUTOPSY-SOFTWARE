@@ -84,8 +84,7 @@ Recovered Deleted File List and Details
 <img width="1920" height="1080" alt="Screenshot 2025-08-29 093320" src="https://github.com/user-attachments/assets/fcc88f87-c6ef-496f-9bc1-9987a1b45f81" />
 <img width="919" height="670" alt="Screenshot 2025-08-29 093522" src="https://github.com/user-attachments/assets/56b6e4da-4208-4258-b92a-b4ff711d7ad0" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-29 093652" src="https://github.com/user-attachments/assets/3ff6928c-e08f-428f-a499-741e0ecd1d77" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-29 093712" src="https://github.com/user-attachments/assets/898b3375-c4a8-4fd3-aa8b-071e85ba9d8b" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-08-29 093722" src="https://github.com/user-attachments/assets/c9eca91d-8ee4-441f-b3e7-84ecf4173fb7" />
 
 

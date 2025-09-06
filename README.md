@@ -41,41 +41,32 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/c1496db4-5a37-4f85-8863-413902245937" />
+<img width="1707" height="949" alt="image" src="https://github.com/user-attachments/assets/51b57107-f29d-4442-9eb6-3ac3be75b67b" />
 
-
-- Enter a **Case Name** (e.g., `Autopsy1`).  
-- Choose a **Case Folder** location.  
-- Click **Next** → Click **Finish**.  
-
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6a802e96-34e2-4c76-b0e7-16f7a7193b7c" />
 
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
 
 - Select **Local Disk** → **next** 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/177c8c5e-11a3-4311-bc44-20158e7fc497" />
 
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/2d9c5a0e-3130-4d43-9df6-55edf8dcfa9d" />
 
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
 
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/38933ec9-c650-4a3b-99dc-66b74528a2f5" />
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
 
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/faad7e83-9796-4c6c-a9e6-5774fe96fd38" />
 
 
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/734da96b-7914-4f06-afba-d43419d63450" />
-
-
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/dbf93a85-a96b-4070-a906-02d8325dd161" />
-
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/384b1982-64af-43ea-9d51-076fb49e419f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a5ca034-eba3-41ea-b151-df23c784fc87" />
 
 
 
@@ -88,21 +79,24 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## Output :
 
-#### Name -SATHISH.B
-#### Reg. No. - 212224040299
+#### Name : Panduru somu
+#### Reg. No. - 212223240111
 
 ### Folder before deleting the files
-<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/b6c52d8d-dd0f-43e8-a48e-563efbe0120b" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64a7bf29-9749-4c85-ba6c-bef790784a2a" />
+
 
 
 ### Folder after deleting the files
-<img width="1918" height="1077" alt="Screenshot 2025-08-29 094143" src="https://github.com/user-attachments/assets/7230d932-621c-4f3d-a550-90ab5b918864" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f7ffb5ef-1cdd-4124-b5da-9c93a270e8da" />
+
 
 
 ### Folder after extracting the deleted images using autopsy
 
 
-<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/50f6332e-7e57-467f-aabb-d7cb3c6239c8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/125d51b4-b90f-45a4-aca8-0cd6d22abb78" />
+
 
 ## RESULT:
 
